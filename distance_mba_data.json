@@ -228,15 +228,6 @@
             "reviews_url": "/college/dr-d-y-patil-vidyapeeth-center-for-online-learning-pimpri-pune-126013/reviews?course=611879"
           },
           {
-            "course_name": "Master of Business Administration (MBA) (Online)",
-            "course_url": "https://www.shiksha.com/college/profcyma-career-solutions-dr-d-y-patil-vidyapeeth-center-for-online-learning-bavdhan-pune-64951/course-online-master-of-business-administration-mba-online-285451",
-            "offered_by": "Profcyma Career Solutions (Dr. D. Y. Patil Vidyapeeth- Center for Online Learning)",
-            "offered_by_url": "https://www.shiksha.com/college/profcyma-career-solutions-dr-d-y-patil-vidyapeeth-center-for-online-learning-bavdhan-pune-64951",
-            "rating": "5.0",
-            "reviews": "8 reviews",
-            "reviews_url": "/college/profcyma-career-solutions-dr-d-y-patil-vidyapeeth-center-for-online-learning-bavdhan-pune-64951/reviews?course=285451"
-          },
-          {
             "course_name": "Online Master of Business Administration (MBA)",
             "course_url": "https://www.shiksha.com/college/centre-for-distance-and-online-education-lovely-professional-university-phagwara-179689/course-online-online-master-of-business-administration-mba-1145191",
             "offered_by": "Centre for Distance and Online Education, Lovely Professional University",
@@ -253,6 +244,15 @@
             "rating": "4.0",
             "reviews": "7 reviews",
             "reviews_url": "/college/centre-for-distance-and-online-education-lovely-professional-university-phagwara-179689/reviews?course=1197379"
+          },
+          {
+            "course_name": "Master of Business Administration (MBA) (Online)",
+            "course_url": "https://www.shiksha.com/college/profcyma-career-solutions-dr-d-y-patil-vidyapeeth-center-for-online-learning-bavdhan-pune-64951/course-online-master-of-business-administration-mba-online-285451",
+            "offered_by": "Profcyma Career Solutions",
+            "offered_by_url": "https://www.shiksha.com/college/profcyma-career-solutions-bavdhan-pune-64951",
+            "rating": "5.0",
+            "reviews": "8 reviews",
+            "reviews_url": "/college/profcyma-career-solutions-bavdhan-pune-64951/reviews?course=285451"
           },
           {
             "course_name": "MBA in Oil & Gas Management",
@@ -1644,11 +1644,11 @@
                   "topics": []
                 },
                 {
-                  "paper_title": "13 May \n' 26 -14 May \n' 26",
+                  "paper_title": "26 Feb \n' 26",
                   "topics": []
                 },
                 {
-                  "paper_title": "26 Feb \n' 26",
+                  "paper_title": "26 Nov \n' 25 -28 Nov \n' 25",
                   "topics": []
                 }
               ]
@@ -2075,16 +2075,120 @@
     "QA": {
       "QA_ALL": {
         "tag_name": "MBA/PGDM",
-        "description": "Get insights from 127.4k questions on MBA/PGDM, answered by students, alumni, and experts. You may also ask and answer any question you like about MBA/PGDM",
+        "description": "Get insights from 127.9k questions on MBA/PGDM, answered by students, alumni, and experts. You may also ask and answer any question you like about MBA/PGDM",
         "stats": {
-          "Questions": "127.4k",
+          "Questions": "127.9k",
           "Discussions": "55",
-          "Active Users": "596",
-          "Followers": "194999"
+          "Active Users": "555",
+          "Followers": "195000"
         },
         "questions": [
           {
-            "question_text": "What are GIBS the latest key achievements?",
+            "question_text": "What is the total number of seat offered into MBA course at NIF Global Jaipur?",
+            "tags": [
+              {
+                "tag_name": "MBA/PGDM",
+                "tag_url": "https://www.shiksha.com/mba-chp1"
+              },
+              {
+                "tag_name": "NIF Global Jaipur",
+                "tag_url": "https://www.shiksha.com/college/nif-global-jaipur-34577"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Piyush Jain",
+                  "profile_url": "https://www.shiksha.com/userprofile/78587038"
+                },
+                "answer_text": "The NIF Global Jaipur gives a complete of 60 seats for the Bachelor of Design course. These seats are granted, (depends on merit), scores in last qualifying/ Class 12 exam, and the further institute's admission process.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "14 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "How is the academic environment at GIBS in terms of discipline, workload, and support?",
+            "tags": [
+              {
+                "tag_name": "MBA/PGDM",
+                "tag_url": "https://www.shiksha.com/mba-chp1"
+              },
+              {
+                "tag_name": "Gitarattan International Business School",
+                "tag_url": "https://www.shiksha.com/college/gitarattan-international-business-school-rohini-delhi-37867"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Mohammed Maqsood",
+                  "profile_url": "https://www.shiksha.com/userprofile/99292942"
+                },
+                "answer_text": "The GIBS Business School promotes an environment of support, professionalism, and balance in relationships through its academic programs. Structured class timetables and regular attendance requirements, along with evaluating students on their assignments, presentations, quizzes, and class participation, encourage students to take responsibility and prepare for the corporate world. The coursework is appropriately paced for the number of hours of weekly class time; students engage in rigorous coursework (including case studies and live projects), complete group work, study for examinations and write assessments, but they also have enough",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "15 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the hostel fee for IIT Dhanbad MBA course?",
+            "tags": [
+              {
+                "tag_name": "MBA/PGDM",
+                "tag_url": "https://www.shiksha.com/mba-chp1"
+              },
+              {
+                "tag_name": "IIT Dhanbad (ISM) - Indian Institute of Technology (ISM)",
+                "tag_url": "https://www.shiksha.com/college/iit-dhanbad-ism-indian-institute-of-technology-ism-13669"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Atul Pruthi",
+                  "profile_url": "https://www.shiksha.com/userprofile/78586734"
+                },
+                "answer_text": "The hostel amount for the MBA students at IIT Dhanbad, can fluctuate according to the chosen room/ type of hostel. The accommodation can be of single occupancy, double, triple, etc. The hostel charges is around Rs. 77,700. This fee can change because of the no. of reasons, likewise academic year, seats, etc.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "15 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the tuition fee for MBA course at IIT Dhanbad?",
+            "tags": [
+              {
+                "tag_name": "MBA/PGDM",
+                "tag_url": "https://www.shiksha.com/mba-chp1"
+              },
+              {
+                "tag_name": "IIT Dhanbad (ISM) - Indian Institute of Technology (ISM)",
+                "tag_url": "https://www.shiksha.com/college/iit-dhanbad-ism-indian-institute-of-technology-ism-13669"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Chanchal Gaurav",
+                  "profile_url": "https://www.shiksha.com/userprofile/78586500"
+                },
+                "answer_text": "IIT Dhanbad  MBA tuition fee is INR 3L. After the final selection, candidates need to pay the admission fee amount to confirm their seats. It should be noted that the mentioned fee is as per the official website/ sanctioning body. It can be revised and hence, is indicative.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "15 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What are the eligibility criteria for the PGDM programme at GIBS Business School?",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
@@ -2099,156 +2203,114 @@
             "answers": [
               {
                 "author": {
-                  "name": "Ahmedbasha",
-                  "profile_url": "https://www.shiksha.com/userprofile/98830460"
+                  "name": "Mohammed Maqsood",
+                  "profile_url": "https://www.shiksha.com/userprofile/99292942"
                 },
-                "answer_text": "As a student, I feel GIBS has achieved a lot recently, and it's honestly something we're proud of on campus. Ranked among Top Emerging B-Schools in India by Business Today 2025 Secured Top 10 position in THE WEEK – Best Emerging B-School in India Awarded A+ Rating by Business India (2025) for overall excellence Recognised as Best B-School for Placements in India by Business India GIBS Mind Valley campus appreciated as one of the most beautiful green campuses in Bangalore Successfully hosting big platforms like TEDxGIBS Bangalore, bringing national leaders and changemakers Strong industry partnerships with companies like Zerodha, NoBroker, M",
+                "answer_text": "GIBS Business School, Bangalore, offers the Post Graduate Diploma in Management (PGDM) programme. All applicants must meet the following criteria to qualify for admission to the PGDM programme at GIBS Business School: Education: Applicants must have completed their Bachelor's Degree from a recognised college/university. Minimum Mark Requirement: Applicants must typically have achieved a minimum of 50% overall marks in their Bachelor's Degree (or 45% for applicants in a reserved category). Final Year Students: Final year students can also be considered if they will complete their Bachelor's Degree and meet the minimum eligibility criteria",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "49 mins ago"
+                "posted_time": "15 hours ago"
               }
             ]
           },
           {
-            "question_text": "What is the duration of MBA course at IIS (Deemed to be University) Jaipur?",
+            "question_text": "What is the eligibility criteria for the MBA programme offered by Scott Christian College?",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
                 "tag_url": "https://www.shiksha.com/mba-chp1"
               },
               {
-                "tag_name": "IIS",
-                "tag_url": "https://www.shiksha.com/university/iis-deemed-to-be-university-jaipur-64381"
+                "tag_name": "Scott Christian College",
+                "tag_url": "https://www.shiksha.com/college/scott-christian-college-nagercoil-75671"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Indrani Tyagi",
-                  "profile_url": "https://www.shiksha.com/userprofile/78586562"
+                  "name": null,
+                  "profile_url": null
                 },
-                "answer_text": "The timing of MBA course at IIS (Deemed to be University) Jaipur is 2-years. This course is given as postgraduation course. Then, it is divided into four semesters. The subjects covered in the general MBA course in first semester are Fundamentals of Management, Managerial Economics, Operations Management-I, Marketing Management, etc.",
+                "answer_text": null,
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "49 mins ago"
+                "posted_time": "15 hours ago"
+              },
+              {
+                "author": {
+                  "name": null,
+                  "profile_url": null
+                },
+                "answer_text": null,
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "15 hours ago"
               }
             ]
           },
           {
-            "question_text": "What are the names of the IIS Jaipur MBA recruiters?",
+            "question_text": "How does GIBS help introverted or non-marketing-oriented students crack placements?",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
                 "tag_url": "https://www.shiksha.com/mba-chp1"
               },
               {
-                "tag_name": "IIS",
-                "tag_url": "https://www.shiksha.com/university/iis-deemed-to-be-university-jaipur-64381"
+                "tag_name": "Gitarattan International Business School",
+                "tag_url": "https://www.shiksha.com/college/gitarattan-international-business-school-rohini-delhi-37867"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Indrani Kumar",
-                  "profile_url": "https://www.shiksha.com/userprofile/78586802"
+                  "name": "Mohammed Maqsood",
+                  "profile_url": "https://www.shiksha.com/userprofile/99292942"
                 },
-                "answer_text": "The current stats. of placements for MBA course at IIS Jaipur has not been announced by the institute yet. However, we have the names of placements companies that came to the institution in the previous academic years. The names of them are, ACC Limited, ICICI, Bajaj, Britannia, etc.",
+                "answer_text": "GIBS provides a supportive environment for introverted or non-marketing oriented students to develop their placement potential through a focus on personalized mentoring and emphasising strengths rather than a one-size-fits-all approach. Students will be assisted by the placement team and faculty in finding appropriate career paths in analytics, finance, human resources, operations, research, back-end consulting or corporate support functions where communication skills are crucial but aggressive sales techniques are not required. Mock interviews, aptitude training, resume development, domain-based skill development and one-to-one mentor",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "53 mins ago"
+                "posted_time": "15 hours ago"
               }
             ]
           },
           {
-            "question_text": "What is the criteria for continuation of IIS Jaipur MBA scholarships?",
+            "question_text": "What is IIT Dhanbad MBA in Business Analytics application fee?",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
                 "tag_url": "https://www.shiksha.com/mba-chp1"
               },
               {
-                "tag_name": "IIS Eligibility",
-                "tag_url": "https://www.shiksha.com/tags/iis-eligibility-tdp-1110825"
+                "tag_name": "IIT Dhanbad (ISM) - Indian Institute of Technology (ISM)",
+                "tag_url": "https://www.shiksha.com/college/iit-dhanbad-ism-indian-institute-of-technology-ism-13669"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Tanisha Pandey",
-                  "profile_url": "https://www.shiksha.com/userprofile/78587008"
+                  "name": "Kartik Sharma",
+                  "profile_url": "https://www.shiksha.com/userprofile/78586926"
                 },
-                "answer_text": "For continuation of IIS Jaipur MBA scholarships from one academic year to another/ semester. Students need to follow all of these criterias: No semester/year drop is permitted under any circumstances. Students must maintain a minimum of 75% attendance in the academic session (both theory and practical). Students are required to secure at least 60% marks or a CGPA/SGPA of 6.0 in every semester, or with not more than one due paper. All required academic performance must be achieved in the first attempt of the regular semester/ trimester/ year-end examinations. The applicable scholarship will be disbursed in the even semester, &",
+                "answer_text": "Application fees for MBA in Business Analytics course at IIT Dhanbad reconciliation may take up to 7–10 days. Hence, students ae suggested to not make second time payment and wait for same. Also, preserve your payment receipt for future communication for any clarification on same. The application fee for MBA BA course is as follows: Programme Fees MBA in Business Analytics Application Fee (Gen/OBC/EWS) Rs. 1600 MBA in Business Analytics Application Fee (SC/ST/PwD) Rs. 800",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "56 mins ago"
+                "posted_time": "15 hours ago"
               }
             ]
           },
           {
-            "question_text": "What are the type of scholarships offered to MBA course at IIS (Deemed to be University)?",
+            "question_text": "What are the important admission dates for MBA course at IIT Dhanbad?",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
                 "tag_url": "https://www.shiksha.com/mba-chp1"
               },
               {
-                "tag_name": "IIS",
-                "tag_url": "https://www.shiksha.com/university/iis-deemed-to-be-university-jaipur-64381"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Krishnendu Kumar",
-                  "profile_url": "https://www.shiksha.com/userprofile/78587102"
-                },
-                "answer_text": "The types of scholarships given to MBA course at IIS  (Deemed to be University) is based on students' merit, economic status, parents income, and more. The names of the scholarships along with eligibility criteria are mentioned in the following pointers: Merit-Based Scholarship: PG: based on graduation marks Education Support Scheme for Students from Economically weaker backgrounds :  For the students who have lost both parents during their education or at the time of admission at IISU/ IIS Institutional Networks. Early Bird Scholarship : Register for MBA course offered by IISU on or before 25th May 2026, and successfull",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "59 mins ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What are the factors that I can consider for comparing IIS Jaipur MBA course?",
-            "tags": [
-              {
-                "tag_name": "MBA/PGDM",
-                "tag_url": "https://www.shiksha.com/mba-chp1"
-              },
-              {
-                "tag_name": "IIS",
-                "tag_url": "https://www.shiksha.com/university/iis-deemed-to-be-university-jaipur-64381"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Rachit Kumar",
-                  "profile_url": "https://www.shiksha.com/userprofile/78586424"
-                },
-                "answer_text": "There are lot of factors that one can taken into account, while comparing the IIS Jaipur MBA course. These factors can not be predecided, because it can change according to the students' prefrences. Some of the important considered factors are, seats, placements, fees, ROI, etc.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "an hour ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the hostel fees for an MBA at IIS (Deemed to be University)?",
-            "tags": [
-              {
-                "tag_name": "MBA/PGDM",
-                "tag_url": "https://www.shiksha.com/mba-chp1"
-              },
-              {
-                "tag_name": "IIS",
-                "tag_url": "https://www.shiksha.com/university/iis-deemed-to-be-university-jaipur-64381"
+                "tag_name": "IIT Dhanbad (ISM) - Indian Institute of Technology (ISM)",
+                "tag_url": "https://www.shiksha.com/college/iit-dhanbad-ism-indian-institute-of-technology-ism-13669"
               }
             ],
             "followers": 0,
@@ -2258,88 +2320,10 @@
                   "name": "Vishakha",
                   "profile_url": "https://www.shiksha.com/userprofile/65654303"
                 },
-                "answer_text": "IIS MBA hostel fee ranges from INR 85,200 to INR 3.01 lakh. This fee amount can include caution deposit or the refundable amount. Apart from this, the tuition fee is charged semester-wise or annually. The given fee is as per official website/ sanctioning body. It is still subject to revision and hence, is indicative.",
+                "answer_text": "The important admission dates for MBA courses at IIT Dhanbad have different events scheduled. Some of the important dates for IIT Dhanbad MBA academic year 2026: Procedure Date Online Application Form Begins 24th December 2025 Last date of Online Application 31st January 2026 Personal interview Feb 19-22, March 14-16, March 22-24 & March28-29,  2026 Declaration of Admission Results First Week of May,  2026 (Tentative) Reporting at IIT (ISM) Dhanbad To be Notified Commencement of Semester for all MBA courses To be Notified",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "an hour ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the tuition fees for an MBA at IIS Jaipur?",
-            "tags": [
-              {
-                "tag_name": "MBA/PGDM",
-                "tag_url": "https://www.shiksha.com/mba-chp1"
-              },
-              {
-                "tag_name": "MBA/PGDM Fees",
-                "tag_url": "https://www.shiksha.com/tags/mba-pgdm-fees-tdp-1010395"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Chanchal Gaurav",
-                  "profile_url": "https://www.shiksha.com/userprofile/78586500"
-                },
-                "answer_text": "IIS Jaipur MBA tuition fee is INR 90K - INR 2.2L The total course fee can go from INR 1.75 Lacs to INR 5.19 lakh. After final selection, candidates need to pay admission fee amount to confirm seats. It should be noted that the mentioned fee is as per the official website/ sanctioning body. It can be revised and hence, is indicative.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "an hour ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Is CAT compulsory for admissions into MBA course at IIS (Deemed to be University) Jaipur?",
-            "tags": [
-              {
-                "tag_name": "MBA/PGDM",
-                "tag_url": "https://www.shiksha.com/mba-chp1"
-              },
-              {
-                "tag_name": "CAT",
-                "tag_url": "https://www.shiksha.com/mba/cat-exam"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Atul Pruthi",
-                  "profile_url": "https://www.shiksha.com/userprofile/78586734"
-                },
-                "answer_text": "No, CAT scores are not compulsory for enrollement into MBA course at IIS Jaipur. As per the info. available on the website of the institute, the institute give prefrences to those students who have secured scored in the management entrance exams, such as CAT/ XAT/ CUET PG/ MAT. Thus, CAT scores can be considered as one of the factor for selecting the students. However, it is not compulsory.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "an hour ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the admission process for MBA course at IIS (Deemed to be University)?",
-            "tags": [
-              {
-                "tag_name": "MBA/PGDM",
-                "tag_url": "https://www.shiksha.com/mba-chp1"
-              },
-              {
-                "tag_name": "IIS",
-                "tag_url": "https://www.shiksha.com/university/iis-deemed-to-be-university-jaipur-64381"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Piyush Jain",
-                  "profile_url": "https://www.shiksha.com/userprofile/78587038"
-                },
-                "answer_text": "The complete enrollement  process for MBA courses at IIS (Deemed to be University) has different stages, the first one starts with applying into the course through website of the institute. Then, selected students need to appear for interview, GD, Personal skills test on the allocated dates by the institution. Selected students will get the admission offer, and conclusively, students need to pay the fee of MBA course for admissions confirmation.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "an hour ago"
+                "posted_time": "15 hours ago"
               }
             ]
           }
@@ -2348,7 +2332,7 @@
       "QA_D": {
         "questions": [
           {
-            "posted_time": "2 weeks ago",
+            "posted_time": "a month ago",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
@@ -2361,7 +2345,7 @@
             ],
             "question_text": "Is it a good idea to give multiple MBA entrance exams like CAT CMAT XAT MAT?",
             "followers": 2,
-            "views": "1.5000",
+            "views": "1.6000",
             "author": {
               "name": "Rohan Bhatia",
               "profile_url": "https://www.shiksha.com/userprofile/99131780"
@@ -2369,7 +2353,7 @@
             "answer_text": "Yes, giving multiple MBA entrance exams like CAT, CMAT, XAT, and MAT is generally a good idea. Most of the syllabus overlaps, so your preparation works across exams, and it reduces the risk of depending on just one test.Different exams open doors to different colleges. For example, CAT is needed for IIMs, while exams like CMAT, MAT, or NMAT are accepted by many private B-schools. Colleges such as Athena School of Management also consider multiple exams and focus on the overall profile, so having more scores gives you flexibility.Overall, multiple exams simply mean more options and backup choices, which is always helpful."
           },
           {
-            "posted_time": "a month ago",
+            "posted_time": "2 months ago",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
@@ -2382,7 +2366,7 @@
             ],
             "question_text": "Is quality of MBA education declining?",
             "followers": 1,
-            "views": 678,
+            "views": 686,
             "author": {
               "name": "Aditi Sharma",
               "profile_url": "https://www.shiksha.com/userprofile/99146630"
@@ -2390,7 +2374,7 @@
             "answer_text": "I don't think the quality of MBA education is declining overall, but it's becoming very uneven. A lot more colleges have opened in the last few years, so the quality really depends on the institute you choose.Top and mid-tier B-schools still maintain good faculty, internships and placement support. But some smaller colleges don't update their curriculum or offer enough industry exposure, which makes the experience feel outdated.So it's not that MBA quality is falling everywhere — it's just important to pick a college that focuses on practical learning, internships and industry linkages rather than just classroom teaching."
           },
           {
-            "posted_time": "a month ago",
+            "posted_time": "2 months ago",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
@@ -2403,7 +2387,7 @@
             ],
             "question_text": "Top MBA institutes accepting MAT, CMAT and XAT scores.",
             "followers": 10,
-            "views": "13.9000",
+            "views": 14000,
             "author": {
               "name": "Devika Verma",
               "profile_url": "https://www.shiksha.com/userprofile/99021392"
@@ -2453,7 +2437,7 @@
             "answer_text": "An MBA from IIM is ideal if you aim for leadership, business, or management roles with high salary packages and faster career growth. An M.Tech from IIT suits those interested in technical expertise, research, or academia. Choose MBA for business-driven careers and M.Tech for deep domain specialization. Your career goal should guide your choice."
           },
           {
-            "posted_time": "6 months ago",
+            "posted_time": "7 months ago",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
@@ -2508,7 +2492,7 @@
             ],
             "question_text": "How important is mentor's guidance for MBA entrance exam preparation?",
             "followers": 2,
-            "views": "1.2000",
+            "views": "1.3000",
             "author": {
               "name": "Guna",
               "profile_url": "https://www.shiksha.com/userprofile/75893543"
